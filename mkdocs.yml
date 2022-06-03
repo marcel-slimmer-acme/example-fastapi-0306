@@ -1,0 +1,8 @@
+site_name: "example-fast-test-0306"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
